@@ -1,0 +1,7 @@
+{
+  "name": "sales-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elias Fernandes <eliasfernandescout@gmail.com>",
+  "license": "MIT"
+}
